@@ -64,7 +64,7 @@ sales-data-analysis/
 
 - **SQLite** (via SQLite Online)
 - **SQL** (for data querying and transformation)
-- **Microsoft Word 
+- **Microsoft** Word 
 
 ---
 
